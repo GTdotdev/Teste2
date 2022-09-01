@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Cliente\Clientes.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Cliente\ConsultaCliente.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pedido\ConsultaPedido.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pedido\Pedidos.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Produto\ConsultaProduto.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Produto\Produtos.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Vendedor\ConsultaVendedor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Vendedor\Vendedores.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Cliente\Clientes.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Cliente\ConsultaCliente.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pedido\ConsultaPedido.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pedido\Pedidos.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Produto\ConsultaProduto.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Produto\Produtos.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Vendedor\ConsultaVendedor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Vendedor\Vendedores.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
